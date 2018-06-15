@@ -1,7 +1,7 @@
 # Sass Starter Site
 
 ## First run
-1. [Download this theme](https://github.com/frankiesmith/sass-starter-site) as a ZIP (_don't clone!_)
+1. [Download this repository](https://github.com/frankiesmith/sass-starter-site) as a ZIP (_don't clone!_)
 1. Initialize as a new repo
 1. Run `npm install` to set up local environment
 
