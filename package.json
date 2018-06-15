@@ -1,15 +1,15 @@
 {
-  "name": "theme-fivehdstarter",
+  "name": "sass-starter-site",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://git@gitlab.com/5hd/theme-fivehdstarter.git"
+    "url": "https://github.com/frankiesmith/sass-starter-site.git"
   },
   "author": "5HD",
   "bugs": {
     "url": "https://gitlab.com/5hd/theme-fivehdstarter/issues"
   },
-  "homepage": "https://gitlab.com/5hd/theme-fivehdstarter#README",
+  "homepage": "https://github.com/frankiesmith/sass-starter-site/blob/master/README.md",
   "private": true,
   "scripts": {
     "start": "gulp",
